@@ -1,0 +1,3 @@
+[submodule "packages/amershadow/greetings1"]
+	path = packages/amershadow/greetings1
+	url = git@github.com:AmerShadow/laravel_package.git
